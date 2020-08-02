@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/darshpatel/static/css/main.5f361e03.chunk.css",
+    "main.js": "/darshpatel/static/js/main.aaad2bfd.chunk.js",
+    "main.js.map": "/darshpatel/static/js/main.aaad2bfd.chunk.js.map",
+    "runtime-main.js": "/darshpatel/static/js/runtime-main.3616024f.js",
+    "runtime-main.js.map": "/darshpatel/static/js/runtime-main.3616024f.js.map",
+    "static/js/2.7d96a15f.chunk.js": "/darshpatel/static/js/2.7d96a15f.chunk.js",
+    "static/js/2.7d96a15f.chunk.js.map": "/darshpatel/static/js/2.7d96a15f.chunk.js.map",
+    "index.html": "/darshpatel/index.html",
+    "precache-manifest.b1e6e3b0c8cf1bf4b8b9ec063db70284.js": "/darshpatel/precache-manifest.b1e6e3b0c8cf1bf4b8b9ec063db70284.js",
+    "service-worker.js": "/darshpatel/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/darshpatel/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7d96a15f.chunk.js.LICENSE.txt": "/darshpatel/static/js/2.7d96a15f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/darshpatel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3616024f.js",
+    "static/js/2.7d96a15f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aaad2bfd.chunk.js"
+  ]
+}
