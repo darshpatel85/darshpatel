@@ -15,6 +15,8 @@ const Footer =() => {
                         <a><i className="fa fa-envelope fa-4x m-4 dark"></i></a>
                         <a><i className="fa fa-phone fa-4x m-4 dark"></i></a>
                         </div>
+            <br/>
+            <br/>
         </div>
     );
 }

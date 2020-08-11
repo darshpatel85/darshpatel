@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  position: relative;
 }
 .theme{
   color: chartreuse;
@@ -19,6 +20,8 @@ body {
 }
 .white{
   color: whitesmoke;
+  font-size: large;
+
 }
 .white:hover{
   color: chartreuse;

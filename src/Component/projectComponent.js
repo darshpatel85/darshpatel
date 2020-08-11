@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import {Card,CardImg,CardText,CardBody,CardTitle} from 'reactstrap';
-import p2 from '../images/p2.jpg';
+import p2 from '../images/p2.png';
 import p1 from '../images/p1.jpg';
-import dp from '../images/dp.jpg';
+import dp from '../images/dp.png';
 function RenderCard({ name, image , git, body }) {
         return (
                 <Card>
                     <CardImg src={image} alt={name} />
                     <CardBody>
-                        <CardTitle>{name}</CardTitle>
+                        <CardTitle><strong>{name}</strong></CardTitle>
                         <CardText>{body}</CardText>
                         <a href={git}><span>github</span></a>
                     </CardBody>
