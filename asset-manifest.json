@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/darshpatel/static/css/main.5f361e03.chunk.css",
-    "main.js": "/darshpatel/static/js/main.aaad2bfd.chunk.js",
-    "main.js.map": "/darshpatel/static/js/main.aaad2bfd.chunk.js.map",
+    "main.css": "/darshpatel/static/css/main.01ca4d30.chunk.css",
+    "main.js": "/darshpatel/static/js/main.bdc86258.chunk.js",
+    "main.js.map": "/darshpatel/static/js/main.bdc86258.chunk.js.map",
     "runtime-main.js": "/darshpatel/static/js/runtime-main.3616024f.js",
     "runtime-main.js.map": "/darshpatel/static/js/runtime-main.3616024f.js.map",
-    "static/js/2.7d96a15f.chunk.js": "/darshpatel/static/js/2.7d96a15f.chunk.js",
-    "static/js/2.7d96a15f.chunk.js.map": "/darshpatel/static/js/2.7d96a15f.chunk.js.map",
+    "static/css/2.a46d483d.chunk.css": "/darshpatel/static/css/2.a46d483d.chunk.css",
+    "static/js/2.4536f18a.chunk.js": "/darshpatel/static/js/2.4536f18a.chunk.js",
+    "static/js/2.4536f18a.chunk.js.map": "/darshpatel/static/js/2.4536f18a.chunk.js.map",
     "index.html": "/darshpatel/index.html",
-    "precache-manifest.b1e6e3b0c8cf1bf4b8b9ec063db70284.js": "/darshpatel/precache-manifest.b1e6e3b0c8cf1bf4b8b9ec063db70284.js",
+    "precache-manifest.3cd101ea9a88fee1c4d35349b8c4b766.js": "/darshpatel/precache-manifest.3cd101ea9a88fee1c4d35349b8c4b766.js",
     "service-worker.js": "/darshpatel/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/darshpatel/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7d96a15f.chunk.js.LICENSE.txt": "/darshpatel/static/js/2.7d96a15f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/darshpatel/static/media/logo.5d5d9eef.svg"
+    "static/css/2.a46d483d.chunk.css.map": "/darshpatel/static/css/2.a46d483d.chunk.css.map",
+    "static/css/main.01ca4d30.chunk.css.map": "/darshpatel/static/css/main.01ca4d30.chunk.css.map",
+    "static/js/2.4536f18a.chunk.js.LICENSE.txt": "/darshpatel/static/js/2.4536f18a.chunk.js.LICENSE.txt",
+    "static/media/5star.png": "/darshpatel/static/media/5star.4ea87c0d.png",
+    "static/media/GoogleIT.png": "/darshpatel/static/media/GoogleIT.11115700.png",
+    "static/media/Hakerrank.png": "/darshpatel/static/media/Hakerrank.36a6830d.png",
+    "static/media/dp.png": "/darshpatel/static/media/dp.916cd57d.png",
+    "static/media/font-awesome.css": "/darshpatel/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/p1.jpg": "/darshpatel/static/media/p1.2fcee1d1.jpg",
+    "static/media/p2.png": "/darshpatel/static/media/p2.07028380.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3616024f.js",
-    "static/js/2.7d96a15f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.aaad2bfd.chunk.js"
+    "static/css/2.a46d483d.chunk.css",
+    "static/js/2.4536f18a.chunk.js",
+    "static/css/main.01ca4d30.chunk.css",
+    "static/js/main.bdc86258.chunk.js"
   ]
 }
