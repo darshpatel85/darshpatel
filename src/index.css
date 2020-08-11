@@ -6,7 +6,26 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.theme{
+  color: chartreuse;
+}
+.header{
+  font-size:2.5vw;
+  color:chartreuse;
+  letter-spacing: 10px;
+}
+.border-theme{
+  border-color: chartreuse;
+}
+.white{
+  color: whitesmoke;
+}
+.white:hover{
+  color: chartreuse;
+}
+.dark:hover{
+  color: chartreuse;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
