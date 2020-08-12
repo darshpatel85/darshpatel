@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/darshpatel/static/css/main.01ca4d30.chunk.css",
+    "main.css": "/darshpatel/static/css/main.917e5664.chunk.css",
     "main.js": "/darshpatel/static/js/main.6367ed51.chunk.js",
     "main.js.map": "/darshpatel/static/js/main.6367ed51.chunk.js.map",
     "runtime-main.js": "/darshpatel/static/js/runtime-main.3616024f.js",
@@ -9,10 +9,10 @@
     "static/js/2.313ff491.chunk.js": "/darshpatel/static/js/2.313ff491.chunk.js",
     "static/js/2.313ff491.chunk.js.map": "/darshpatel/static/js/2.313ff491.chunk.js.map",
     "index.html": "/darshpatel/index.html",
-    "precache-manifest.282ee1942d5baafca699d03310d63e1f.js": "/darshpatel/precache-manifest.282ee1942d5baafca699d03310d63e1f.js",
+    "precache-manifest.119ada7ac4f4c22b1d23ef9b54241652.js": "/darshpatel/precache-manifest.119ada7ac4f4c22b1d23ef9b54241652.js",
     "service-worker.js": "/darshpatel/service-worker.js",
     "static/css/2.a46d483d.chunk.css.map": "/darshpatel/static/css/2.a46d483d.chunk.css.map",
-    "static/css/main.01ca4d30.chunk.css.map": "/darshpatel/static/css/main.01ca4d30.chunk.css.map",
+    "static/css/main.917e5664.chunk.css.map": "/darshpatel/static/css/main.917e5664.chunk.css.map",
     "static/js/2.313ff491.chunk.js.LICENSE.txt": "/darshpatel/static/js/2.313ff491.chunk.js.LICENSE.txt",
     "static/media/5star.png": "/darshpatel/static/media/5star.4ea87c0d.png",
     "static/media/GoogleIT.png": "/darshpatel/static/media/GoogleIT.11115700.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.3616024f.js",
     "static/css/2.a46d483d.chunk.css",
     "static/js/2.313ff491.chunk.js",
-    "static/css/main.01ca4d30.chunk.css",
+    "static/css/main.917e5664.chunk.css",
     "static/js/main.6367ed51.chunk.js"
   ]
 }
