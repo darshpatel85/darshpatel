@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee4c6e76f49456ecac66ccd104d00662",
+    "revision": "59c0a5a29fba39071adfd2dacc23a6d9",
     "url": "/darshpatel/index.html"
   },
   {
-    "revision": "cfb18d4a139b25160d21",
+    "revision": "cb6ae516f14817660cc2",
     "url": "/darshpatel/static/css/2.a46d483d.chunk.css"
   },
   {
-    "revision": "fb24c91144e7687a8e09",
+    "revision": "b6dc075c8f62b3594b59",
     "url": "/darshpatel/static/css/main.01ca4d30.chunk.css"
   },
   {
-    "revision": "cfb18d4a139b25160d21",
-    "url": "/darshpatel/static/js/2.4536f18a.chunk.js"
+    "revision": "cb6ae516f14817660cc2",
+    "url": "/darshpatel/static/js/2.313ff491.chunk.js"
   },
   {
-    "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/darshpatel/static/js/2.4536f18a.chunk.js.LICENSE.txt"
+    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
+    "url": "/darshpatel/static/js/2.313ff491.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb24c91144e7687a8e09",
-    "url": "/darshpatel/static/js/main.bdc86258.chunk.js"
+    "revision": "b6dc075c8f62b3594b59",
+    "url": "/darshpatel/static/js/main.6367ed51.chunk.js"
   },
   {
     "revision": "398cd8aeae082af73b6c",
