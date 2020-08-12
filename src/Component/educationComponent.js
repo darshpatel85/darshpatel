@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import {Card,CardImg,CardText,CardBody,CardSubtitle,CardTitle} from 'reactstrap';
+import React from 'react';
+import {Card,CardText,CardBody,CardSubtitle,CardTitle} from 'reactstrap';
 function RenderEdu({degree,scname,year,percentage})  {
     return (
         <Card className="text-left pl-4 pt-4 md" style={{backgroundColor:"darkgray"}}>
@@ -15,7 +15,7 @@ function RenderEdu({degree,scname,year,percentage})  {
 const Education =() => {
     return(
         <div className="container">
-            <h1 className="display-4 header">Education</h1>
+            <h1 className="header">Education</h1>
             <br/>
             <br/>
             <RenderEdu degree="B.E (Information Technology )" scname="Birla Vishvakarma Mahavidyalaya, Anand

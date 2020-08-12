@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import {Card,CardImgOverlay,CardImg, CardBody, CardTitle, CardText} from 'reactstrap';
+import React from 'react';
+import {CardImg, CardBody, CardText} from 'reactstrap';
 import dp from '../images/dp.png';
 const Header =() => {
     return(
@@ -13,10 +13,11 @@ const Header =() => {
             <CardImg top src={dp} className="rounded"></CardImg>
             </div>
             <CardBody className="col-sm-6 align-center">
-                    <CardTitle className="col-md">
-                        <br/><br/>
-                        <h1 className="display-1 text-left"><strong>DARSH</strong> </h1><br/><h1 className="display-2 text-left theme" >PATEL</h1>
-                    </CardTitle>
+            <br/><br/>
+                    <CardText>
+                        
+                        <h1 className="display-2 text-left"><strong>DARSH</strong> </h1><br/><h1 className="display-2 text-left theme" >PATEL</h1>
+                    </CardText>
                     <br/>
                     <br/>
                     <br/>

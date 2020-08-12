@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import {Card} from 'reactstrap';
+import React  from 'react';
+
 const RenderSkill=({name}) => {
     return(
         <button class="rounded p-2 m-4 bg-dark border-theme border-rounded"><h1 className="pl-4 pr-4 white pt-2">{name}</h1></button>
@@ -8,7 +8,7 @@ const RenderSkill=({name}) => {
 const Skill =() => {
     return(
         <div className="container">
-            <h1 className="display-4 header">SKILLS</h1>
+            <h1 className="header">SKILLS</h1>
             <RenderSkill name="React"/>
             <RenderSkill name="Python"/>
             <RenderSkill name="JavaScript"/>
